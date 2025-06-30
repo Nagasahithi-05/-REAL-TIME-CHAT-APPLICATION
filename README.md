@@ -17,3 +17,6 @@ Core Features:
 - Media Sharing: Support for sending images, emojis, files, and perhaps voice messages.
 - Chat History: Persistent message storage using databases (like MongoDB or Firebase), with options to view past conversations.
 - Typing Indicators & Read Receipts: Feedback to users about conversation activity.
+
+**Output:
+(`[![Image](https://github.com/user-attachments/assets/73f38ffb-e362-40b7-bb9e-52c1c50a60ac)]
